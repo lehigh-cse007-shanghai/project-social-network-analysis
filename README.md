@@ -1,13 +1,13 @@
 # CSE007 Social Network Analysis project
 This is the final project for CSE007. The goal is to explore a dataset of Weibo status created by Weibo users in 2012. All the statuses are geolocalized and attached to a location. You will need to answer 3 questions about the data using Java programming. 
-### Objective 
+## Objective 
 The objective of the project is to get the assignment fro GitHub, clone the project and build a java program that answer **_3 questions_** from the data. You need to choose one question in each category: one about the **status**, one about the **user** and one about the **location**.
-### How and When
+## How and When
 The project has to be pushed on GitHub where it will be reviewed by the course professors. It is due **Sunday 20th of December midnight**.
 
 Evaluation will based on the answer to the questions for 50% and the coding style and strategy for 50%. The style in particular has to pass the grade check (grade → verification → check). 
 We do not provide testing for the answers so you have to rely on your common sense to evaluate your answers. 
-### Data
+## Data
 The data has been harvested in 2012 by UTSEUS institute in Shanghai. It is a collection of 504,688 Weibo **Status** published by a **User** in a specific **Location**. Each property is a column of a _csv_ file. The properties are as follow:
 1. Status related
 	- `status_id` – a unique id for a status
@@ -31,9 +31,13 @@ The data has been harvested in 2012 by UTSEUS institute in Shanghai. It is a col
 	-  `location_checkin` –  number of checkin by users in this location
 	-  `location_distinct_checkin` –   number of checkin by distinct users  in this location
 
+## Download the CSV
 The CSV file itself is pretty big so you have to download it separately using baidu 
+
 链接:https://pan.baidu.com/s/1yU0nN3n-ACR2IelR8vK6TQ
+
 密码:kcbn
+
 Save the file on your computer somewhere and unzip it. You are now ready to open in java.
 
 DO NOT try to open it with Excel!! You can open it with a robust text editor like Sublime text for example.
