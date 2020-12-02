@@ -30,7 +30,14 @@ The data has been harvested in 2012 by UTSEUS institute in Shanghai. It is a col
 	-  `location_category` –   category of the location in English
 	-  `location_checkin` –  number of checkin by users in this location
 	-  `location_distinct_checkin` –   number of checkin by distinct users  in this location
-The CSV file itself is pretty big so it has been compressed as a zip file.
+
+The CSV file itself is pretty big so you have to download it separately using baidu 
+链接:https://pan.baidu.com/s/1yU0nN3n-ACR2IelR8vK6TQ
+密码:kcbn
+Save the file on your computer somewhere and unzip it. You are now ready to open in java.
+
+DO NOT try to open it with Excel!! You can open it with a robust text editor like Sublime text for example.
+ 
 ### Questions
 Questions are spread into 3 groups of questions. You need to select one question in each category. Be careful, some question require you to normalise if you want relevant results! Some are also difficult BUT you will get higher leniency if you do choose them. 
 1. Question about **STATUS**
